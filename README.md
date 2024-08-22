@@ -25,7 +25,7 @@
   </header>
     <!--conteudo da página// -->
     <main>
-        //seção inicial//
+        <!--Seção inicial --> 
         <section id="inicio">
           <img src="img/start-img.svg" alt="" width="580" height="580">
           <div>
