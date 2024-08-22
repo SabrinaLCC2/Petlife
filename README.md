@@ -11,7 +11,7 @@
 </body>
 
 </html>
-  
+  <!--cabeça//--> 
   <header>
     <a href="index.html">
       <img src="img/logo-white.svg" alt="PetLife">
@@ -20,12 +20,12 @@
       <a href="#inicio">Início</a>
       <a href="#clinica">Clínica</a>
       <a href="#farmacia">Farmácia</a>
-      <a href="#duvidas">Dúvidas</a>
+      <a href="#duvidas">Dúvidas</a>     
     </nav>
   </header>
-    
+    <!--conteudo da página// -->
     <main>
-        
+        //seção inicial//
         <section id="inicio">
           <img src="img/start-img.svg" alt="" width="580" height="580">
           <div>
@@ -40,7 +40,7 @@
           <img src="img/shape.svg" alt="">
         </section>
         </main>
-        
+        // seção da clinica//
         <section id="clinica">
             <div>
               <h2>Cuidado Veterinário de Qualidade</h2>
